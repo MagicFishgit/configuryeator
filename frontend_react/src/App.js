@@ -1,10 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
+import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div>
-      test
-    </div>
+    <Home />
   )
 }
 
