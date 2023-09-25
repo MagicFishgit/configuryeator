@@ -1,2 +1,4 @@
 # configuryeator
-Placeholder for a future project. Project will take yeastar phone config and allow you to edit it using a GUI especially editing and organizing BLF entries as the manual process is grueling.
+In development.
+
+Project will guide a user through a user friendly interface collecting information required to configure their Yeastar specific VOIP logic and data. The end goal is the have the program be able to configure a PABX automatically after all data is submitted.
